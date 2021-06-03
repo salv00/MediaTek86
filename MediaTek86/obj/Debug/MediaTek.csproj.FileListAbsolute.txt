@@ -1,0 +1,70 @@
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\obj\Debug\MediaTek.csprojAssemblyReference.cache
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\obj\Debug\MediaTek.Properties.Resources.resources
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\obj\Debug\MediaTek.csproj.GenerateResource.cache
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\obj\Debug\MediaTek.csproj.CoreCompileInputs.cache
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\MediaTek.exe.config
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\MediaTek.exe
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\MediaTek.pdb
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\obj\Debug\MediaTek.exe
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\obj\Debug\MediaTek.pdb
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\Google.Protobuf.dll
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\MySql.Data.dll
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\System.Buffers.dll
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\System.Memory.dll
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\Zstandard.Net.dll
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\Google.Protobuf.pdb
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\Google.Protobuf.xml
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\MySql.Data.xml
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\System.Buffers.xml
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\System.Memory.xml
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\obj\Debug\MediaTek.csproj.CopyComplete
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\bin\Debug\MediaTek.xml
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\obj\Debug\MediaTek.vue.frmGestionPersonnel.resources
+C:\Users\Monica Tevy Sen\Desktop\MediaTek\MediaTek\MediaTek\obj\Debug\MediaTek.vue.frmLogin.resources
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\MediaTek.exe.config
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\MediaTek.xml
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\MediaTek.exe
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\MediaTek.pdb
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\Google.Protobuf.dll
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\MySql.Data.dll
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\System.Buffers.dll
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\System.Memory.dll
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\Zstandard.Net.dll
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\Google.Protobuf.pdb
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\Google.Protobuf.xml
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\MySql.Data.xml
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\System.Buffers.xml
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\System.Memory.xml
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\obj\Debug\MediaTek.csprojAssemblyReference.cache
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\obj\Debug\MediaTek.Properties.Resources.resources
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\obj\Debug\MediaTek.vue.frmGestionPersonnel.resources
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\obj\Debug\MediaTek.vue.frmLogin.resources
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\obj\Debug\MediaTek.csproj.GenerateResource.cache
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\obj\Debug\MediaTek.csproj.CoreCompileInputs.cache
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\obj\Debug\MediaTek.csproj.CopyComplete
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\obj\Debug\MediaTek.exe
+C:\Users\Salvatore\Desktop\MediaTek-monica\MediaTek\obj\Debug\MediaTek.pdb
